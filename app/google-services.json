@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "478239305359",
+    "project_id": "loginsql-f98e6",
+    "storage_bucket": "loginsql-f98e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478239305359:android:9eceddd88405c6d7910afa",
+        "android_client_info": {
+          "package_name": "com.example.loginsql"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478239305359-7o1otjockrs2vbccdr9mh1q5dl6voqot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginsql",
+            "certificate_hash": "cd1ad406adee292cad3de67042144f6097facf56"
+          }
+        },
+        {
+          "client_id": "478239305359-o45tc4m4heeoh169vf3apt32adaedqb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlgk3vXi1ELmyIkbu9xLOYM7Gq0ovlQTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478239305359-o45tc4m4heeoh169vf3apt32adaedqb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
